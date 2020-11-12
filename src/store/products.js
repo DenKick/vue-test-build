@@ -1,0 +1,167 @@
+export default [
+  {
+    id: 1,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Border.png',
+    price: 6000,
+    new: false,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 2,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo.png',
+    price: 4800,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 3,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-1.png',
+    price: 5290,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 4,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-2.png',
+    price: 2800,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 5,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-3.png',
+    price: 3400,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: false
+  },
+  {
+    id: 6,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-4.png',
+    price: 6000,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 7,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-5.png',
+    price: 4800,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 8,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-6.png',
+    price: 5290,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 9,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-7.png',
+    price: 2800,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 10,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-8.png',
+    price: 3400,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 11,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-9.png',
+    price: 6000,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 12,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-10.png',
+    price: 4800,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 13,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-11.png',
+    price: 5290,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 14,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-12.png',
+    price: 2800,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+  {
+    id: 15,
+    name: 'Краска Wallquest, Brownsone MS90102',
+    photo: 'Photo-13.png',
+    price: 3400,
+    new: true,
+    presence: true,
+    contract: true,
+    exclusive: true,
+    sale: true
+  },
+]
